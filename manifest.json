@@ -1,6 +1,6 @@
 {
-    "name": "Example app",
-    "id": "example",
+    "name": "Tiny",
+    "id": "tiny",
     "packaging_format": 1,
     "description": {
         "en": "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)",
@@ -39,8 +39,8 @@
             {
                 "name": "path",
                 "type": "path",
-                "example": "/example",
-                "default": "/example"
+                "example": "/tiny",
+                "default": "/tiny"
             },
             {
                 "name": "is_public",
